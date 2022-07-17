@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452259013383",
+    "project_id": "splitbillapp-c1a3a",
+    "storage_bucket": "splitbillapp-c1a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452259013383:android:032c1620ae855d23acdba2",
+        "android_client_info": {
+          "package_name": "com.example.personal_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452259013383-e625flo1suadf7duek5od5gopqtaheis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFGuQsFNbYjVu1tM6issU_d4skS-rWcQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452259013383-e625flo1suadf7duek5od5gopqtaheis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
